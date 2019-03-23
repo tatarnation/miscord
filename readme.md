@@ -32,7 +32,7 @@ function makeSendInterval(data,single,interval) {
 gtds.on('open', () => {
     console.log('opened');
     let op2res = {
-        token: "NDkzMzcxOTQxMDc2NDY3NzIy.D2QsVQ.HZ8gGHSf9lhYTI-Aoa-K9fuGBoo",
+        token: "",
         properties: {
             "$os": typeof window !== "undefined" ? "browser" : process.platform,
             $browser: "mztest",
