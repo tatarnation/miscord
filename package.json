@@ -1,0 +1,19 @@
+{
+  "name": "miscord",
+  "version": "0.1.0",
+  "description": "try to discord.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tatarnation/miscord.git"
+  },
+  "author": "miyazaki a.k.a thelazypie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tatarnation/miscord/issues"
+  },
+  "homepage": "https://github.com/tatarnation/miscord#readme"
+}
